@@ -149,7 +149,7 @@ class MainWindow(QWidget):
         
         # "ABOUT" PAGE
         
-        self.aboutLabel = QLabel(self.lang[self.syslang]["Dashboard\nAuthor: OrgInfoTech @2024\nVersion: 1.0.0 (01/01/2024)"], self)
+        self.aboutLabel = QLabel(self.lang[self.syslang]["Dashboard\nAuthor: OrgInfoTech @2024\nVersion: 1.0.0 (06/12/2024)"], self)
         self.aboutLabel.setGeometry(150, 50, 250, 60)
         self.aboutLabel.hide()
         
